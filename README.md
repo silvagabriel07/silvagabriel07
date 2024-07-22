@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Silva
 - 👀 I’m interested in back-end and Python
-- 🌱 I’m currently learning Django Rest Framework
+- 🌱 I’m currently learning Deploy and DevOps
 - 💞️ I'm looking to collaborate on Python web projects
 - 📫 How to reach me: send email to gsilvexist7@gmail.com
 
